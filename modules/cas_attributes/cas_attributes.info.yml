@@ -1,0 +1,13 @@
+name: CAS Attributes
+description: 'Provides tokens for CAS attributes and an interface for token replacement in user account and profile fields; as well as role mapping capability.'
+type: module
+# core: 8.x
+dependencies:
+  - cas
+  - token
+
+# Information added by Drupal.org packaging script on 2017-01-02
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'cas_attributes'
+datestamp: 1483382644
